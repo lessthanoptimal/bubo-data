@@ -1,0 +1,22 @@
+<list>
+  <georegression.struct.point.Point2D__F64>
+    <x>11.025</x>
+    <y>11.025</y>
+  </georegression.struct.point.Point2D__F64>
+  <georegression.struct.point.Point2D__F64>
+    <x>-11.025</x>
+    <y>11.025</y>
+  </georegression.struct.point.Point2D__F64>
+  <georegression.struct.point.Point2D__F64>
+    <x>-11.075</x>
+    <y>-7.075</y>
+  </georegression.struct.point.Point2D__F64>
+  <georegression.struct.point.Point2D__F64>
+    <x>11.125</x>
+    <y>-7.275</y>
+  </georegression.struct.point.Point2D__F64>
+  <georegression.struct.point.Point2D__F64>
+    <x>11.125</x>
+    <y>11.075</y>
+  </georegression.struct.point.Point2D__F64>
+</list>

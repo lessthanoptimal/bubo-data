@@ -1,0 +1,8 @@
+<bubo.desc.sensors.lrf2d.Lrf2dParam>
+  <startAngle>2.356194490192345</startAngle>
+  <sweepAngle>-4.71238898038469</sweepAngle>
+  <numberOfScans>270</numberOfScans>
+  <maxRange>5.0</maxRange>
+  <beamAperture>0.0</beamAperture>
+  <rangeAccuracy>0.0</rangeAccuracy>
+</bubo.desc.sensors.lrf2d.Lrf2dParam>
