@@ -1,7 +1,6 @@
 <boofcv.struct.calib.IntrinsicParameters>
   <cx>317.5814351764315</cx>
   <cy>257.98301062777455</cy>
-  <flipY>false</flipY>
   <fx>527.4374310508924</fx>
   <fy>528.0441199551942</fy>
   <height>480</height>
